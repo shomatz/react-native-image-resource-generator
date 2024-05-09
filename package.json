@@ -10,9 +10,6 @@
   "bin": {
     "img-res-gen": "bin/index.js"
   },
-  "files": [
-    "/bin"
-  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/svbutko/react-native-image-resource-generator.git"
